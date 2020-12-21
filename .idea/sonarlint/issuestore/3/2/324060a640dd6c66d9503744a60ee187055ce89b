@@ -1,0 +1,98 @@
+
+a
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‹ƒ³À8´ÕÙ›è.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ô÷ã™8ÂÊªœè.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ŸÛ®î8Ê·­œè.
+5	java:S121"Missing curly brace.(«ÇŸúøÿÿÿÿ8íú­›è.
+N
+java:S2039",Explicitly declare the visibility for "val".(ıÍİ–ùÿÿÿÿ8×²Û˜è.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8”û°œè.
+c
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(œ×Ø÷øÿÿÿÿ8×²Û˜è.
+L
+java:S3740("/Provide the parametrized type for this generic.(”ºšô8¶Íø›è.
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(âûÚ‘8Ò“£›è.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ıÍİ–ùÿÿÿÿ8×²Û˜è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Œˆ’õûÿÿÿÿ8´ÕÙ›è.
+T	java:S106D"9Replace this use of System.out or System.err by a logger.(‹Ïp8ÑÃè.
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(«ÇŸúøÿÿÿÿ8íú­›è.
+
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²€ìæ8‘ªø›è.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Å‚ÉÎúÿÿÿÿ8ó¯´›è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Å‚ÉÎúÿÿÿÿ8è®›è.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÊñÅÜøÿÿÿÿ8ÄÑ˜œè.
+K
+java:S2039	".Explicitly declare the visibility for "right".(éËî‚8×²Û˜è.
+t	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(ˆåşıÿÿÿÿ8íú­›è.
+a
+java:S1120+"DMake this line start after 6 spaces to indent the code consistently.(‹¢ÍÌ8‘ªø›è.
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ˆåşıÿÿÿÿ8íú­›è.
+a
+java:S1120,"DMake this line start after 8 spaces to indent the code consistently.(ê¶ÌÓ8‘ªø›è.
+v
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßóü‚8‘ªø›è.
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(«ÇŸúøÿÿÿÿ8íú­›è.
+f
+java:S11201"DMake this line start after 8 spaces to indent the code consistently.(¿• àøÿÿÿÿ8‘ªø›è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(›ÒÔ“ÿÿÿÿÿ8íú­›è.
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ÊñÅÜøÿÿÿÿ8íú­›è.
+^
+java:S1106="AMove this left curly brace to the beginning of next line of code.(Çµí‘8€§ù›è.
+L
+java:S3740("/Provide the parametrized type for this generic.(”ºšô8¶Íø›è.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ø¥­ıÿÿÿÿ8×²Û˜è.
+^
+java:S11060"AMove this left curly brace to the beginning of next line of code.(¶Æúô8‘ªø›è.
+O
+java:S2039"-Explicitly declare the visibility for "node".(ª¬ïØÿÿÿÿÿ8ó¯´›è.
+I
+java:S2039"-Explicitly declare the visibility for "left".(êªô8×²Û˜è.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹ƒ³À8´ÕÙ›è.
+t	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(Å‚ÉÎúÿÿÿÿ8íú­›è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Å‚ÉÎúÿÿÿÿ8è®›è.
+c
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(¦›¾Ùşÿÿÿÿ8‘ªø›è.
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(à¯Ÿ¦ùÿÿÿÿ8íú­›è.
+>
+java:S2694"!Make this a "static" inner class.(âûÚ‘8éÄœè.
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ÅÙ¿úÿÿÿÿ8×²Û˜è.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Œˆ’õûÿÿÿÿ8×ßã›è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(©ø¥­ıÿÿÿÿ8×²Û˜è.
+a
+java:S1120'"DMake this line start after 4 spaces to indent the code consistently.(ßóü‚8‘ªø›è.
+;	java:S113"'Add a new line at the end of this file.8»úË™è.
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ˆåşıÿÿÿÿ8íú­›è.
+f
+java:S1120>"DMake this line start after 4 spaces to indent the code consistently.(ö’Ñ”üÿÿÿÿ8Ë“û›è.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸¯Ÿ‚úÿÿÿÿ8Ò“£›è.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(âûÚ‘8×²Û˜è.
+t	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(«ÇŸúøÿÿÿÿ8íú­›è.
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(À’Ñï8íú­›è.
+L
+java:S3740&"/Provide the parametrized type for this generic.(²€ìæ8¶Íø›è.
+^
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(²€ìæ8‘ªø›è.
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(À’Ñï8íú­›è.
+^
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(‹¢ÍÌ8‘ªø›è.
+t	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(Å‚ÉÎúÿÿÿÿ8íú­›è.
+m
+java:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ßóü‚8òàø›è.
+t	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(ª¬ïØÿÿÿÿÿ8ó¯´›è.
+5	java:S121"Missing curly brace.(ˆåşıÿÿÿÿ8íú­›è.
